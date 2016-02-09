@@ -2,7 +2,7 @@
 """
 Created on Fri Dec 25 15:10:07 2015
 
-@author: Murat
+@author: Melek
 """
 import numpy as np
 a = np.arange(20).reshape(4, 5) 
